@@ -13,5 +13,5 @@ function calculateStringLength (x, y) {
   }
 console.log(x.length);
 }
-console.log(calculateStringLength('abcde', 250));
-console.log(getRndInteger(1, 10));
+calculateStringLength('abcde', 250);
+getRndInteger(1, 10);
